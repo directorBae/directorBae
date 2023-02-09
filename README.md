@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdirectorBae%2Fhit-counter&count_bg=%233DB7C8&title_bg=%23555555&icon=microbit.svg&icon_color=%23FFB0E1&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 - 👀 [My Portfolio](https://goldenrod-hugger-507.notion.site/Jeongwon-Bae-s-Portfolio-05cf9e7f8d5b46739ae6f0047d40a7ab)
-- My Career: Since 2017
+- ✨ My Career: Since 2017
 - 🔭 I’m currently working on @Trip-Builder
 - 📫 How to reach me: bjw020615@unist.ac.kr
 - 🌱 I’m currently learning BERT, koGPT
