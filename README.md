@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on @Trip-Builder
 - 📫 How to reach me: bjw020615@unist.ac.kr
 - 🌱 I’m currently learning BERT, koGPT
-- ⚡ Skills: Python, C/C++, Java, Arduino, R, matlab, Fusion 360, AutoCAD, Premiere Pro, After Effects
+- ⚡ Skills: Python, C/C++, Java, Pytorch, TensorFlow, CV, NLP, Vision, Arduino, R, matlab, Fusion 360, AutoCAD, Premiere Pro, After Effects
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=directorBae&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=directorBae&langs_count=8)](https://github.com/directorBae/github-readme-stats)
