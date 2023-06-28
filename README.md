@@ -8,10 +8,11 @@
 - 🌱 I’m currently learning BERT, koGPT
 - ⚡ Skills: Python, C/C++, Java, Pytorch, TensorFlow, CV, NLP, Vision, Arduino, R, matlab, Fusion 360, AutoCAD, Premiere Pro, After Effects, Davinci Ressolve
 
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=directorBae&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=directorBae&langs_count=8)](https://github.com/directorBae/github-readme-stats)
+-->
 
-  
 <!--
 **directorBae/directorBae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
