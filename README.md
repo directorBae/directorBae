@@ -2,8 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdirectorBae%2Fhit-counter&count_bg=%233DB7C8&title_bg=%23555555&icon=microbit.svg&icon_color=%23FFB0E1&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 - 👀 [My Portfolio](https://portfolio-bjw.notion.site/Jeongwon-Bae-s-Portfolio-05cf9e7f8d5b46739ae6f0047d40a7ab?pvs=4)
-- ✨ My Career: Since 2017
-- 🔭 I’m currently working on @Interactive-Machine-Intelligence-Lab
+- 🔭 I’m currently working on ARI:AI
 - 📫 How to reach me: bjw020615@unist.ac.kr or bjw020615@naver.com
 - 🌱 I’m currently studying on RL, World model, Embodied AI
 - ⚡ Skills: Python, C/C++, Java, Pytorch, TensorFlow, CV, NLP, Vision, Arduino, R, matlab, Fusion 360, AutoCAD, Premiere Pro, After Effects, Davinci Ressolve
